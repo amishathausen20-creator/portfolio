@@ -12,7 +12,7 @@ const Footer = () => {
     },
     {
       icon: <Linkedin size={20} />,
-      href: "https://www.linkedin.com/in/chandini-thausen-938a3537b/",
+      href: "https://www.linkedin.com/in/chandini-thausen-1b7ab8380/",
       label: "LinkedIn"
     },
     {

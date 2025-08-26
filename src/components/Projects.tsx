@@ -20,7 +20,7 @@ const Projects = () => {
     },
     {
       title: "Todos List",
-      description: "This is a functional and visually polished To-Do List Clone, inspired by modern task management apps.The project replicates core features and user interactions found in popular productivity tools, built entirely with JavaScript, HTML, and CSS",
+      description: "A simple yet powerful task management application built to organize daily activities.Users can add,edit,delete, and mark tasks as complete, ensuring productivity and time management. ",
       image: "/image/todos-list.png.png",
       tech: ["React", "Tailwind CSS", ],
       github: "https://github.com/amishathausen20-creator/todos-list",
