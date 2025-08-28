@@ -19,12 +19,12 @@ const Projects = () => {
       live: "https://amishathausen20-creator.github.io/currency_converter/"
     },
     {
-      title: "Todos List",
+      title: "Todo List",
       description: "A simple yet powerful task management application built to organize daily activities.Users can add,edit,delete, and mark tasks as complete, ensuring productivity and time management. ",
       image: "/image/todos-list.png.png",
       tech: ["React", "Tailwind CSS", ],
-      github: "https://github.com/amishathausen20-creator/todos-list",
-      live: "https://amishathausen20-creator.github.io/todos-list/"
+      github: "https://github.com/amishathausen20-creator/Todo-list",
+      live: "https://todos-list-lvef.vercel.app/"
     },
     
   ];
