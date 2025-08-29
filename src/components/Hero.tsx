@@ -1,4 +1,3 @@
-import React from 'react';
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 
 const Hero = () => {
@@ -29,8 +28,10 @@ const Hero = () => {
             <button className="bg-blue-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transform hover:scale-105 transition-all duration-200 shadow-lg">
               View My Work
             </button>
-            <a className="cursor-pointer bg-blue-600 text-white px-5 py-3 rounded-lg font-semibold hover:bg-blue-700 transform hover:scale-105 transition-all duration-200 shadow-lg"
-            href="../assets/Chandini_Resume.pdf" download>Download Resume</a>
+            <a
+            className="cursor-pointer bg-blue-600 text-white px-5 py-3 rounded-lg font-semibold hover:bg-blue-700 transform hover:scale-105 transition-all duration-200 shadow-lg"
+            href="/assets/ChandiniResume.pdf"
+             download>Download Resume </a>
           </div>
 
           <div className="flex justify-center space-x-6 mb-12">

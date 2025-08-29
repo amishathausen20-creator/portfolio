@@ -44,7 +44,7 @@ const Contact = () => {
       icon: <MapPin className="w-6 h-6 text-blue-600" />,
       title: "Location",
       details: "Guwahati, India",
-      link: "#"
+      link: "https://maps.app.goo.gl/fN1VWVhxY8Chd3UH9",
     }
   ];
 
@@ -80,6 +80,7 @@ const Contact = () => {
                 <a 
                   key={index}
                   href={item.link}
+                  target='_blank'
                   className="flex items-center space-x-4 p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200"
                 >
                   <div className="flex-shrink-0">
