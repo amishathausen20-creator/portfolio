@@ -38,7 +38,7 @@ const Contact = () => {
       icon: <Phone className="w-6 h-6 text-blue-600" />,
       title: "Phone",
       details: "+91 6900509957",
-      link: "+916900509957",
+      link:"tel:+916900509957",
     },
     {
       icon: <MapPin className="w-6 h-6 text-blue-600" />,
@@ -63,6 +63,7 @@ const Contact = () => {
         <div className="grid lg:grid-cols-2 gap-12">
           {/* Contact Information */}
           <div className="space-y-8">
+            
             <div>
               <h3 className="text-2xl font-bold text-gray-900 mb-6">
                 Let's Connect
